@@ -1,0 +1,12 @@
+
+{
+    "APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
+    "APPWRITE_PROJECT_ID": "nurvle-project-id-here",
+    "APPWRITE_BUCKET_ID": "nurvle-bucket-id-here",
+    "APPWRITE_DATABASE_ID": "nurvle-database-id-here",
+    "APPWRITE_COLLECTION_ID": "nurvle-collection-id-here",
+    "GEMINI_API_KEY": "AIzaSyDM_HESVAYTTNf3j84pgpL93jSe6Xx6z3s",
+    "SERPAPI_KEY": "a485ed54bac3e5eae9aab0253ae45fe13218b976f9c25786b07a7ef89e8176e5",
+    "GEMINI_MODEL": "gemini-2.5-flash-lite",
+    "APPWRITE_FEEDBACK_COLLECTION_ID": "message_feedback"
+}
